@@ -64,7 +64,7 @@ Welcome aboard, matey! I’m a developer who loves building bold products, solvi
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKz6u1uT8puQn6E/giphy.gif" width="220" alt="Pirate ship GIF" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+SirJackSparow+%F0%9F%91%8B" alt="Hi, I'm SirJackSparow" />
 </p>
 
 <p align="center">
