@@ -64,13 +64,9 @@ Welcome aboard, matey! I’m a developer who loves building bold products, solvi
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+SirJackSparow+%F0%9F%91%8B" alt="Hi, I'm SirJackSparow" />
-</p>
-
-<p align="center">
   <em>"Set sail and build something worth remembering."</em>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=FFB703&center=true&vCenter=true&width=500&lines=Ahoy%2C+Captain+%F0%9F%8F%9A%F0%9F%8F%A0%E2%80%8D%EF%B8%8F+%7C+Set+sail+for+code" alt="Pirate footer banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=FFB703&center=true&vCenter=true&width=500&lines=⚓+Ahoy%2C+Captain+%F0%9F%8F%9A%F0%9F%8F%A0%E2%80%8D%EF%B8%8F+%7C+Set+sail+for+code" alt="Pirate footer banner" />
 </p>
