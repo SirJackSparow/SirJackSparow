@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I’m a developer who loves building meaningful products, solving real-world problems, and continuously learning new technologies.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
 </p>
 
 <div align="center">
