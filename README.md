@@ -66,7 +66,3 @@ Welcome aboard, matey! I’m a developer who loves building bold products, solvi
 <p align="center">
   <em>"Set sail and build something worth remembering."</em>
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=FFB703&center=true&vCenter=true&width=550&lines=⚓+Ahoy%2C+Captain+🏴‍☠️+%7C+Set+sail+for+code" alt="Pirate footer banner" />
-</p>
