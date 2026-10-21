@@ -61,9 +61,3 @@ Welcome to my GitHub profile! I’m a developer who loves building meaningful pr
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SirJackSparow)
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghlp?user=SirJackSparow&color=purple&style=flat" />
-</p>
-
-> “Code is not just about writing programs — it’s about solving problems and creating value.”
