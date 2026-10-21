@@ -16,7 +16,7 @@ Welcome aboard, matey! I’m a developer who loves building bold products, solvi
 
 ## 🏴‍☠️ About Me
 
-- 🔭 I’m currently building useful software and exploring smart, practical ideas
+- 🔭 I’m currently building useful software and exploring smart, practical ideas and also AI SDK
 - 🌱 I’m always learning new frameworks, tools, and ways to improve my craft
 - 💡 I enjoy writing clean code, solving real problems, and making things easy to use
 - 🚀 I love turning ideas into working products that people actually enjoy
